@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import React from 'react';
 import './globals.css';
 import { FirebaseProvider } from '@/components/layout/firebase-provider';
 import { AuthProvider } from '@/components/layout/auth-provider';
